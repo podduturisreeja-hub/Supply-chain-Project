@@ -105,4 +105,4 @@ ORDER BY otd_rate_pct DESC;
 
 ## Author
 **Sreeja Podduturi** — Data Analyst | Power BI | SQL | Python  
-📧 podduturisreejar@gmail.com | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/podduturisreeja-hub)
+📧 podduturisreejar@gmail.com | [LinkedIn](www.linkedin.com/in/sreeja-podduturi-733a58319) | [GitHub](https://github.com/podduturisreeja-hub)
